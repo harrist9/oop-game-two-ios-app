@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					E9E9E6001BEC411E007F95BB = {
 						CreatedOnToolsVersion = 7.1;
+						DevelopmentTeam = 56P3PHE54L;
 					};
 					E9E9E6141BEC411E007F95BB = {
 						CreatedOnToolsVersion = 7.1;
@@ -397,6 +398,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "oop-game-two/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thomasharris.oop-game-two";
@@ -408,6 +410,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "oop-game-two/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thomasharris.oop-game-two";
@@ -482,6 +485,7 @@
 				E9E9E62B1BEC411E007F95BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9E9E62C1BEC411E007F95BB /* Build configuration list for PBXNativeTarget "oop-game-twoTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +494,7 @@
 				E9E9E62E1BEC411E007F95BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E9E9E62F1BEC411E007F95BB /* Build configuration list for PBXNativeTarget "oop-game-twoUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +503,7 @@
 				E9E9E6311BEC411E007F95BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
